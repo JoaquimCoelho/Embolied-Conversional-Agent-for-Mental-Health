@@ -1,0 +1,20 @@
+APIs testadas:
+
+	ChatterBot - Erro a instalar, proveniente da propria API
+
+APIs em teste:
+
+	GPT(OpenAI) - https://help.openai.com/en/articles/6643167-how-to-use-the-openai-api-for-q-a-or-to-build-a-chatbot
+
+APIs a testar:
+
+	Llama(Meta) - https://llama.meta.com
+
+	Mistral AI - https://mistral.ai
+
+	Gemini(Google) - https://ai.google.dev/docs/gemini_api_overview?hl=pt-br
+
+	
+
+
+
