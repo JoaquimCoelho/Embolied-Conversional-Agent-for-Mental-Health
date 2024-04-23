@@ -4,18 +4,18 @@ APIs testadas:
 
 	Gemini(Google) - Não disponível em Portugal
 
-APIs em teste:
-	
-	GPT(OpenAI):
-		-https://help.openai.com/en/articles/6643167-how-to-use-the-openai-api-for-q-a-or-to-build-a-chatbot
-		-Pago (não muito caro)
-	
-
-APIs a testar:
+	Mistral AI - https://mistral.ai
 
 	Llama(Meta) - https://llama.meta.com
 
-	Mistral AI - https://mistral.ai
+	GPT(OpenAI):
+		-https://help.openai.com/en/articles/6643167-how-to-use-the-openai-api-for-q-a-or-to-build-a-chatbot
+		-Pago (não muito caro)
+
+APIs em teste:
+	
+
+APIs a testar:
 
 	Gemma(Google) - https://ai.google.dev/gemma
 
